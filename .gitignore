@@ -1,6 +1,5 @@
 HELP.md
-.gradle
-build/
+.gradl
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
